@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">buttday</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_your_card">CREATE YOUR CARD</string>
+</resources>
